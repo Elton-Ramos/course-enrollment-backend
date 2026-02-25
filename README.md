@@ -143,9 +143,8 @@ ________________________________________
  
  # Running the Application
 uvicorn app.main:app --reload
-•	API: http://localhost:8000
 •	Swagger UI: http://localhost:8000/docs
-•	ReDoc: http://localhost:8000/redoc
+
 
 
 
